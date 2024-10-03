@@ -1,3 +1,8 @@
+# Why I Chose Nodemailer and React Router DOM
+I opted for Nodemailer to handle email functionalities in my project due to its simplicity and flexibility. It allows me to easily send emails from my application, whether for user notifications, confirmations, or any other correspondence. Its well-documented API and support for various transport methods make it an ideal choice for ensuring reliable email delivery.
+
+On the other hand, I selected React Router DOM to manage routing within my application. This library provides a declarative way to create navigation and organize the application into distinct pages, enhancing user experience. Its seamless integration with React components allows for dynamic routing and makes it easy to handle route transitions, ensuring users can navigate through the app smoothly. Together, these tools significantly improve the functionality and usability of my project.
+
 # IMPORTANT! READ before starting
 
 By default for anonymous users (non logged in), your code and app will only remain on glitch.com for 5 days.
